@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/binaryToDecimal/static/css/main.0f85f696.chunk.css",
+    "main.js": "/binaryToDecimal/static/js/main.1a2faad3.chunk.js",
+    "main.js.map": "/binaryToDecimal/static/js/main.1a2faad3.chunk.js.map",
+    "runtime-main.js": "/binaryToDecimal/static/js/runtime-main.34213142.js",
+    "runtime-main.js.map": "/binaryToDecimal/static/js/runtime-main.34213142.js.map",
+    "static/js/2.b4cd3bbc.chunk.js": "/binaryToDecimal/static/js/2.b4cd3bbc.chunk.js",
+    "static/js/2.b4cd3bbc.chunk.js.map": "/binaryToDecimal/static/js/2.b4cd3bbc.chunk.js.map",
+    "index.html": "/binaryToDecimal/index.html",
+    "precache-manifest.66aaf1934aac2c55dcdbb68309a02e51.js": "/binaryToDecimal/precache-manifest.66aaf1934aac2c55dcdbb68309a02e51.js",
+    "service-worker.js": "/binaryToDecimal/service-worker.js",
+    "static/css/main.0f85f696.chunk.css.map": "/binaryToDecimal/static/css/main.0f85f696.chunk.css.map",
+    "static/js/2.b4cd3bbc.chunk.js.LICENSE.txt": "/binaryToDecimal/static/js/2.b4cd3bbc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34213142.js",
+    "static/js/2.b4cd3bbc.chunk.js",
+    "static/css/main.0f85f696.chunk.css",
+    "static/js/main.1a2faad3.chunk.js"
+  ]
+}
