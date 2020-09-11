@@ -1,0 +1,22 @@
+.inputDiv {
+    display: flex;
+    padding: 1rem 0;
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.inputDiv > input{
+    padding: 0.3rem;
+    width: 15rem;
+}
+
+.inputDiv > input[readonly] {
+    cursor: auto;
+    outline: none;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
